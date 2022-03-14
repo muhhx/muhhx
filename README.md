@@ -9,4 +9,4 @@ I love everything that has to do with visual design, product, web & mobile proje
 
 Working with <strong>React and TypeScript</strong>.
 
-Learning <strng>GSAP and Three.js</strong> for better animations and UX.
+Learning <strong>GSAP and Three.js</strong> for better animations and UX.
