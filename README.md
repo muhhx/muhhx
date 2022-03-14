@@ -11,4 +11,4 @@ Working with <strong>React and TypeScript</strong>.
 
 Learning <strng>GSAP and Three.js</strong> for better animations and UX.
 
-As a fun fact, I've played semi-professional soccer, traveling and competing in national tournaments here in Brazil.
+As a fun fact, I was a semi-professional soccer player, traveling and competing in national tournaments here in Brazil.
