@@ -9,6 +9,6 @@ I love everything that has to do with visual design, product, web & mobile proje
 
 Working with <strong>React and TypeScript</strong>.
 
-Learning <strong>GSAP, Three.js</strong> for better animations and UX.
+Learning <strng>GSAP and Three.js</strong> for better animations and UX.
 
 As a fun fact, I've played semi-professional soccer, traveling and competing in national tournaments here in Brazil.
