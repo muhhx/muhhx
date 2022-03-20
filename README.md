@@ -7,6 +7,6 @@ Front-end engineer & UI/UX Designer with a background in architecture and design
 
 I love everything that has to do with visual design, product, web & mobile projects, as well as branding, typography and animations.
 
-Working with <strong>React and TypeScript</strong>.
+Working with <strong>React.js, TypeScript and GraphQL</strong>.
 
-Learning <strong>GSAP and Three.js</strong> for better UX animations & <strong>Testing</strong>.
+Learning <strong>GSAP and Three.js</strong>, for better UX animations, and <strong>Testing</strong>.
