@@ -7,6 +7,6 @@ Front-end engineer & UI/UX Designer with a background in architecture and design
 
 I love everything that has to do with visual design, product, web & mobile projects, as well as branding, typography and animations.
 
-Technologies: HTML, CSS, SASS, Javascript, Typescript, React.js (Redux), Node.js, C, GraphQL, Rest, MySQL, MongoDB, Firebase.
+Technologies: HTML, CSS, SASS, Javascript, Typescript, React.js (Redux), Node.js, C, GraphQL, Rest API, MySQL, MongoDB, Firebase.
 
 Working everyday with <strong>React.js, TypeScript and GraphQL</strong>, while also learning <strong>Testing</strong>, as well as <strong>GSAP and Three.js</strong> for better UX animations.
