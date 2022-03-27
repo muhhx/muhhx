@@ -11,8 +11,9 @@ Technologies: HTML, CSS, SASS, Javascript, Typescript, React.js (Redux), Node.js
 
 Working everyday with <strong>React.js, TypeScript and GraphQL</strong>, while also learning <strong>Testing</strong>, as well as <strong>GSAP and Three.js</strong> for better UX animations.
 
-<div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+
+<div>
+  <a href="https://github.com/muhhx">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhhx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhhx&layout=compact&langs_count=7&theme=dracula"/>
 </div>
