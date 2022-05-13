@@ -9,4 +9,4 @@ I love everything that has to do with visual design, product, web & mobile proje
 
 Technologies: HTML, CSS, SASS, Javascript, Typescript, React.js (Redux), Node.js, C, GraphQL, Rest API, MySQL, MongoDB, Firebase.
 
-Working everyday with <strong>TypeScript, React.js Node.js and GraphQL</strong>.
+Working everyday with <strong>TypeScript, React.js, Node.js & GraphQL</strong>.
