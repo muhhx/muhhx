@@ -1,6 +1,6 @@
 # Murilo Santos
 
-Full-stack engineer with a background in architecture and design (I love everything that has to do with visual design, from branding to typography). I've been developing digital products and websites for national as well as worldwide companies for three years.
+Full stack engineer with a strong background in design. I've been developing websites and systems for national, as well as wordwide companies for the past 3 years, aways with a peculiar attention to User Experience.
  
 Fun fact: I played semi-professional soccer here in Brazil, traveling and playing in tournaments througout the country. I was a left-back in the Coritiba Football Club youth academy, and almost went to an US university to play soccer with a full scholarship.
 
