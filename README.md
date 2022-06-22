@@ -9,4 +9,4 @@ Fun fact: Throught my life, I've done every type of sports you can imagine, from
 
 Technologies: HTML, CSS, Javascript, Typescript, React.js (Redux), Angular, Node.js, C, Java, GraphQL, Rest API, MySQL, PostgreSQL, MongoDB, Firebase.
 
-Working everyday with <strong>TypeScript, React.js, Node.js, GraphQL & MongoDB</strong>.
+Working everyday with <strong>TypeScript, React.js, Node.js & MongoDB</strong>.
