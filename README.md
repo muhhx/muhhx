@@ -7,4 +7,4 @@ Full stack engineer with a strong background in design and User Interfaces. I've
 
 <strong>Technologies:</strong> HTML, CSS, Sass, JavaScript, TypeScript, React.js, Hooks, Redux, Redux Toolkit, Redux Thunk, Redux Saga, Styled Components, Axios, Angular, Node.js, Express, Java, C, MySQL, PostgreSQL, MongoDB, Firebase, Rest API, GraphQL, Jest, Git
 
-Working everyday with <strong>TypeScript, React.js, Node.js & MongoDB</strong>.
+Working everyday with <strong>TypeScript, React.js & Node.js</strong>.
