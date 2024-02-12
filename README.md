@@ -5,5 +5,6 @@ Software engineer with a strong background in design and interaction. I've been 
 [muriloue@gmail.com](mailto:muriloue@gmail.com)
 
 ## SOCIALS
-[Instagram](https://www.instagram.com/muhhx)    
+[Website](https://muhhx.netlify.app/)
 [Linkedin](https://www.linkedin.com/in/muhhx)
+[Instagram](https://www.instagram.com/muhhx)    
